@@ -11,7 +11,7 @@ A comprehensive data analysis project focused on predicting diabetes outcomes us
 
 | Step                | Status            |
 |---------------------|-------------------|
-| **Data Cleaning**    | In Progress       |
-| **Data Visualisation**| Pending (waiting for Data Cleaning) |
+| **Data Cleaning**    | Completed       |
+| **Data Visualisation**| In Progress |
 | **Data Analysis**    | Pending (waiting for Data Visualisation) |
 | **Model Evaluation** | Pending (waiting for Data Analysis) |
